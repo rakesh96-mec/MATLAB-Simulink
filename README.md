@@ -1,6 +1,6 @@
 # MATLAB & Simulink — Academic Coursework
 
-A collection of university coursework reports covering MATLAB, numerical simulation, dynamic-system modelling, DC motor behaviour, controller design, and Simulink S-functions. This repository is intended to demonstrate academic exposure and familiarity with MATLAB/Simulink concepts.
+A collection of university coursework reports covering MATLAB, numerical simulation, dynamic-system modelling, DC motor behaviour, controller design, and Simulink S-functions. This repository demonstrates academic exposure to MATLAB/Simulink concepts.
 
 ## Exercises
 
@@ -13,8 +13,7 @@ A collection of university coursework reports covering MATLAB, numerical simulat
 | [`05-Controller-Design/`](05-Controller-Design/) | Controller design and evaluation | PDF report |
 | [`06-Simulink-S-Functions/`](06-Simulink-S-Functions/) | Custom Simulink S-functions | PDF report |
 
-
-## Topics demonstrated
+## Topics covered
 
 - MATLAB programming and numerical exercises
 - Dynamic-system modelling and ODE simulation
@@ -22,3 +21,5 @@ A collection of university coursework reports covering MATLAB, numerical simulat
 - DC motor speed modelling
 - Controller design
 - Simulink S-function concepts
+
+**Source files:** The repository currently contains PDF reports. Original `.m` scripts, `.slx` models, and C source files are not included unless separately added.
